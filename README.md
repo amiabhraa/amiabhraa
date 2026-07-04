@@ -136,6 +136,137 @@ Each project will include:
 - Clean Architecture
 
 ---
+<!-- ===================================================== -->
+<!--                  PART 2 : DYNAMIC SECTION             -->
+<!--        Paste this BELOW "Featured Projects"           -->
+<!-- ===================================================== -->
+
+---
+
+# 📌 Featured Repositories
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY_LINK_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY_NAME&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="YOUR_REPOSITORY_LINK_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY_NAME&theme=github_dark&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY_LINK_3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY_NAME&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="YOUR_REPOSITORY_LINK_4">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY_NAME&theme=github_dark&hide_border=true"/>
+</a>
+
+</p>
+
+---
+
+# 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- 🚀 Coming Soon...
+- 🚀 Coming Soon...
+- 🚀 Coming Soon...
+- 🚀 Coming Soon...
+- 🚀 Coming Soon...
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+# 📚 Currently Learning
+
+```text
+✓ Java
+✓ Spring Boot
+✓ REST APIs
+✓ Data Structures & Algorithms
+✓ MySQL
+✓ System Design
+✓ Operating Systems
+✓ Computer Networks
+✓ Docker
+✓ Distributed Systems
+```
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-39D353?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-39D353?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_X_URL">
+<img src="https://img.shields.io/badge/X-39D353?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="YOUR_BLOGGER_URL">
+<img src="https://img.shields.io/badge/Blogger-39D353?style=for-the-badge&logo=blogger&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-39D353?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-39D353?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=39D353"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39D353&height=120&section=footer"/>
+
+</p>
 
 # 🌐 Connect With Me
 
