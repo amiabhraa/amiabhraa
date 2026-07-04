@@ -71,7 +71,7 @@ Currently I'm focusing on building production-ready backend applications using J
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amiabhraa&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
 
 <img width="49%" src="https://streak-stats.demolab.com?user=amiabhraa&theme=github-dark&hide_border=true"/>
 
@@ -83,42 +83,12 @@ Currently I'm focusing on building production-ready backend applications using J
 
 </p>
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amiabhraa&theme=algolia&no-frame=true&margin-w=15&row=1&column=7"/>
-
-</p>
-
----
 
 # 🚀 Featured Projects
 
 > 🚧 **Coming Soon**
 
 Projects currently under development.
-
-Planned projects include:
-
-- URL Shortener
-- Authentication System
-- Banking Backend
-- Task Management API
-- File Storage Service
-- Chat Application
-- REST API Collection
-
-Each project will include:
-
-- Documentation
-- Architecture
-- API Design
-- Database Design
-- Challenges Faced
-- Lessons Learned
 
 ---
 
