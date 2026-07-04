@@ -62,24 +62,6 @@ Currently I'm focused on building my expertise in **Java**, **Spring Boot**, **D
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amiabhraa&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiabhraa&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="49%" src="https://streak-stats.demolab.com?user=amiabhraa&theme=github-dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=amiabhraa&theme=github-dark&hide_border=true"/>
-
-</p>
-
 ---
 
 # Featured Projects
