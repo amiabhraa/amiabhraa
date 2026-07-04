@@ -29,6 +29,8 @@ Rather than simply building projects, I enjoy studying **why** technologies work
 
 Currently I'm focusing on building production-ready backend applications using Java and Spring Boot while continuously improving my problem-solving and system design skills.
 
+<img align="right" height="150" src="https://tenor.com/en-IN/view/hiakru-the-summer-hikaru-died-tshd-anime-anime-scene-gif-12480136735236467414" />
+
 ---
 
 # 🎯 Current Focus
