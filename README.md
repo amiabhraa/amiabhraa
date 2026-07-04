@@ -1,36 +1,37 @@
 <!-- ===================================================== -->
-<!--                    HERO SECTION                        -->
+<!--                 PREMIUM GITHUB PROFILE                -->
+<!--                     PART 1/3                          -->
 <!-- ===================================================== -->
 
-<h1 align="center">Abhrajit Mondal</h1>
+<h1 align="center">Hi there, I'm Abhrajit Mondal 👋</h1>
 
-<p align="center">
-  <strong>Backend Developer</strong> •
-  <strong>Computer Science Student</strong> •
-  <strong>Problem Solver</strong>
-</p>
+<h3 align="center">
+Backend Developer • Computer Science Student • Problem Solver
+</h3>
 
 <p align="center">
 Building scalable backend systems while mastering the fundamentals of software engineering.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&duration=3500&color=FFFFFF&center=true&vCenter=true&width=750&lines=Backend+Developer;Computer+Science+Student;Java+%7C+Python+%7C+SQL;Learning+System+Design;Building+Reliable+Software;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&duration=3500&color=39D353&center=true&vCenter=true&width=800&lines=Backend+Developer;Computer+Science+Student;Java+%7C+Spring+Boot+%7C+Python;Building+Scalable+Backend+Systems;Learning+System+Design;Always+Learning+Something+New" alt="Typing SVG"/>
 </p>
 
 ---
 
-# About
+# 👨‍💻 About Me
 
-I'm **Abhrajit Mondal**, a Computer Science student passionate about designing reliable backend systems and understanding how modern software works beneath the surface.
+I'm **Abhrajit Mondal**, a Computer Science student with a strong interest in backend engineering, software architecture, and distributed systems.
 
-I enjoy exploring everything that powers software—from **algorithms**, **databases**, and **operating systems** to **networking**, **system design**, and **backend architecture**. I believe great engineering comes from mastering the fundamentals before relying on abstractions.
+I enjoy understanding how software works beneath the surface—from algorithms and operating systems to networking, databases, concurrency, and scalable backend architectures.
 
-Currently I'm focused on building my expertise in **Java**, **Spring Boot**, **Data Structures & Algorithms**, **Database Systems**, and **Software Architecture**, while documenting my journey through projects and continuous learning.
+Rather than simply building projects, I enjoy studying **why** technologies work the way they do. Every project I build is an opportunity to learn better engineering practices, write cleaner code, and deepen my understanding of computer science fundamentals.
+
+Currently I'm focusing on building production-ready backend applications using Java and Spring Boot while continuously improving my problem-solving and system design skills.
 
 ---
 
-# Current Focus
+# 🎯 Current Focus
 
 ```text
 ▸ Backend Development
@@ -41,80 +42,119 @@ Currently I'm focused on building my expertise in **Java**, **Spring Boot**, **D
 
 ▸ Database Systems (MySQL)
 
-▸ System Design
+▸ REST APIs
 
 ▸ Operating Systems
 
 ▸ Computer Networks
 
-▸ Clean Architecture
+▸ System Design
+
+▸ Software Architecture
+
+▸ Distributed Systems
 ```
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,spring,mysql,git,github,aws,firebase,figma,vercel,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,spring,mysql,git,github,linux,aws,firebase,figma,vercel,vscode,idea&perline=7"/>
 
 </p>
 
 ---
 
-# GitHub Analytics
-
-
+# 📊 GitHub Analytics
 
 <p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amiabhraa&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=amiabhraa&theme=github-dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=amiabhraa&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=amiabhraa&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# Featured Projects
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=amiabhraa&theme=algolia&no-frame=true&margin-w=15&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 > 🚧 **Coming Soon**
 
-I'm currently building projects focused on backend engineering, scalable systems, databases, and software architecture.
+Projects currently under development.
 
-Stay tuned.
+Planned projects include:
+
+- URL Shortener
+- Authentication System
+- Banking Backend
+- Task Management API
+- File Storage Service
+- Chat Application
+- REST API Collection
+
+Each project will include:
+
+- Documentation
+- Architecture
+- API Design
+- Database Design
+- Challenges Faced
+- Lessons Learned
 
 ---
 
-# Currently Learning
+# 📚 Currently Learning
 
 - Spring Boot
-- REST APIs
-- Multithreading & Concurrency
+- REST API Design
+- Multithreading
+- Concurrency
 - Design Patterns
+- JVM Internals
 - Database Optimization
+- Docker
 - Distributed Systems
+- Clean Architecture
 
 ---
 
-# Let's Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://linkedin.com/in/amiabhraa">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-39D353?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/amiabhraa">
+<img src="https://img.shields.io/badge/GitHub-39D353?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://x.com/withabhraa">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-39D353?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="mailto:abhra21jit@gmail.com">
-<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://discord.gg/@heyabhraa">
-<img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-39D353?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -123,14 +163,12 @@ Stay tuned.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=amiabhraa&style=flat-square&color=grey"/>
+<img src="https://komarev.com/ghpvc/?username=amiabhraa&style=for-the-badge&color=39D353"/>
 
 </p>
 
 ---
 
 <p align="center">
-
-> <i>"Learn deeply. Build consistently. Improve every day."</i>
-
+<i>"Learn deeply. Build consistently. Improve every day."</i>
 </p>
