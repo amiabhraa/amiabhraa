@@ -3,7 +3,7 @@
 <!--                     PART 1/3                          -->  
 <!-- ===================================================== -->  
 
-<h1 align="center">Hi there, I'm Abhrajit Mondal 👋</h1>
+<h1 align="center">Hey, I'm Abhrajit Mondal</h1>
   
 <h3 align="center">
 Backend Developer • Computer Science Student • Problem Solver 
