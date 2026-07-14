@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Abhrajit Mondal 👋</h1>
  
 <h3 align="center">
-Backend Developer • Computer Science Student • Problem Solver
+Backend Developer • Computer Science Student • Problem Solver 
 </h3>
 
 <p align="center">
