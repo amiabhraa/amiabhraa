@@ -10,7 +10,7 @@ Backend Developer • Computer Science Student • Problem Solver
 </h3> 
  
 <p align="center">
-Building scalable backend systems while mastering the fundamentals of software engineering.
+Building scalable backend systems while mastering the fundamentals of software engineering. 
 </p>
 
 <p align="center">
