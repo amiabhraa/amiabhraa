@@ -7,7 +7,7 @@
   
 <h3 align="center"> 
 Backend Developer • Computer Science Student • Problem Solver 
-</h3>
+</h3> 
 
 <p align="center">
 Building scalable backend systems while mastering the fundamentals of software engineering.
