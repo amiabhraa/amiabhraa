@@ -5,7 +5,7 @@
    
 <h1 align="center">Hey, I'm Abhrajit Mondal</h1>
   
-<h3 align="center">
+<h3 align="center"> 
 Backend Developer • Computer Science Student • Problem Solver 
 </h3>
 
