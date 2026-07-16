@@ -90,7 +90,9 @@ Currently I'm focusing on building production-ready backend applications using J
 
 > 🚧 **Coming Soon**
 
-Projects currently under development.
+1. URL Shortner and Broad Analytics.
+2. Advance Train Booking System with Admin Panel (ARC).
+3. more coming soon...
 
 ---
 
