@@ -27,7 +27,7 @@ Building scalable backend systems while mastering the fundamentals of software e
 
 I'm **Abhrajit Mondal**, a Computer Science student with a strong interest in backend engineering, software architecture, and distributed systems.
 
-I enjoy understanding how software works beneath the surface—from algorithms and operating systems to networking, databases, concurrency, and scalable backend architectures.
+I enjoy understanding how software works beneath the surface from algorithms and operating systems to networking, databases, concurrency, and scalable backend architectures.
 
 Rather than simply building projects, I enjoy studying **why** technologies work the way they do. Every project I build is an opportunity to learn better engineering practices, write cleaner code, and deepen my understanding of computer science fundamentals.
 
