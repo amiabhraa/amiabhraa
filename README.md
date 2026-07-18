@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,100:39D353&height=120&section=header" width="100%" alt="banner"/>
+
 
 <h1>Hey, I'm Abhrajit Mondal</h1>
 
