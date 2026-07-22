@@ -2,7 +2,7 @@
 
 <h1>Hey, I'm Abhrajit Mondal</h1>  
 
-<h3>Backend Developer • Computer Science Student • Problem Solver</h3>  
+<h3>Backend Developer • Computer Science Student • Problem Solver</h3>   
 
 <p> 
 Building scalable backend systems while mastering the fundamentals of software engineering.
