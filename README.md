@@ -9,7 +9,7 @@ Building scalable backend systems while mastering the fundamentals of software e
 </p> 
 <sub><a href="#-about-me">About</a> • <a href="#-current-focus">Focus</a> • <a href="#-tech-stack">Stack</a> • <a href="#-github-analytics">Analytics</a> • <a href="#-featured-projects">Projects</a> • <a href="#-currently-learning">Learning</a> • <a href="#-connect-with-me">Connect</a></sub> 
    
-<br/>
+<br/> 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&duration=3500&color=39D353&center=true&vCenter=true&width=800&lines=Backend+Developer;Computer+Science+Student;Java+%7C+Spring+Boot+%7C+Python;Building+Scalable+Backend+Systems;Learning+System+Design;Always+Learning+Something+New" alt="Typing SVG"/>
