@@ -15,7 +15,7 @@ Building scalable backend systems while mastering the fundamentals of software e
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&duration=3500&color=39D353&center=true&vCenter=true&width=800&lines=Backend+Developer;Computer+Science+Student;Java+%7C+Spring+Boot+%7C+Python;Building+Scalable+Backend+Systems;Learning+System+Design;Always+Learning+Something+New" alt="Typing SVG"/>
 
 </div>
-
+ 
 ---
 
 ## 👨‍💻 About Me
