@@ -4,7 +4,7 @@
 
 <h3>Backend Developer • Computer Science Student • Problem Solver</h3>   
 
-<p>   
+<p>    
 Building scalable backend systems while mastering the fundamentals of software engineering. 
 </p> 
 <sub><a href="#-about-me">About</a> • <a href="#-current-focus">Focus</a> • <a href="#-tech-stack">Stack</a> • <a href="#-github-analytics">Analytics</a> • <a href="#-featured-projects">Projects</a> • <a href="#-currently-learning">Learning</a> • <a href="#-connect-with-me">Connect</a></sub>  
