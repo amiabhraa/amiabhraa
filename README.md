@@ -59,7 +59,7 @@ Currently I'm focusing on building production-ready backend applications using J
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics   
 
 <p align="center">
 <img width="70%" src="https://streak-stats.demolab.com?user=amiabhraa&theme=github-dark&hide_border=true" alt="streak stats"/>
