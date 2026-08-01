@@ -52,7 +52,7 @@ Currently I'm focusing on building production-ready backend applications using J
 ---
 
 ## 🛠️ Tech Stack
-
+    
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,kotlin,python,spring,mysql,git,github,linux,aws,firebase,figma,vercel,vscode,idea&perline=7"/>
 </p>
